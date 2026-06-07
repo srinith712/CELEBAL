@@ -1,0 +1,36 @@
+Task 1 – Data Analysis using Databricks
+
+In this task, I worked with a dataset using Databricks and Python. I loaded the dataset, explored its structure, cleaned unwanted values, handled missing data, and performed data analysis. I used Python libraries to preprocess the data and generate meaningful insights. This task helped me understand the importance of data cleaning and preparation before performing any analysis.
+
+Key Learnings:
+
+Working with Databricks notebooks.
+Data cleaning and preprocessing techniques.
+Handling missing and inconsistent values.
+Performing data analysis using Python.
+Understanding the importance of data quality.
+
+Insights:
+
+Raw datasets often contain missing and inconsistent values that need to be cleaned before analysis.
+Proper data preprocessing improves the accuracy and reliability of results.
+Databricks provides an efficient environment for handling and analyzing data.
+Task 2 – SQL Database Analysis using MySQL
+
+In this task, I created and worked with a relational database using MySQL Workbench. I executed various SQL queries involving filtering, sorting, aggregation, joins, constraints, indexes, transactions, and ACID properties. I analyzed customer, product, and order data to answer different business questions and gained hands-on experience with database operations.
+
+Key Learnings:
+
+Writing SQL queries using SELECT, WHERE, GROUP BY, HAVING, and JOINs.
+Understanding Primary Keys, Foreign Keys, and Constraints.
+Using aggregate functions like COUNT, SUM, AVG, MIN, and MAX.
+Learning transaction management and ACID properties.
+Understanding the role of indexes in query optimization.
+
+Insights:
+
+Delivered orders contributed the majority of the revenue generated from sales.
+Electronics products had higher average prices compared to other categories.
+JOIN operations help combine data from multiple tables to generate meaningful business information.
+Constraints and transactions help maintain data accuracy and consistency.
+Indexes can improve query performance when filtering large amounts of data.
